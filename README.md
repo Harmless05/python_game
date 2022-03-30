@@ -31,7 +31,7 @@ cd mypythongame
 ```
 py game.py
 ```
-Or you can download the ZIP files [here](https://github.com/Harmless05/my_python_game) and running game.py
+Or you can download the ZIP files [here](https://github.com/Harmless05/python_game) and running game.py
 
 ## Built With
 
