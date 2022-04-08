@@ -17,7 +17,7 @@ class Level():
         level_str = str(self.stats.level)
         self.level_image = self.font.render("Level " + level_str, True, self.text_color, self.game_settings.bg_color)
         self.level_image_rect = self.level_image.get_rect()
-        self.level_image_rect.right = self.screen_rect.right - 1070
+        self.level_image_rect.right = self.screen_rect.right - 1080
         self.level_image_rect.top = 15
 
     def draw_level(self):
